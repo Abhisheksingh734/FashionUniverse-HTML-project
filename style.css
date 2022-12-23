@@ -230,3 +230,14 @@ h4{
     margin: 12px 0;
     color: rgb(65, 62, 62);
 }
+
+.checked{
+    color: #e08925;
+}
+.fa-quote-left{
+    color: #de7f12;
+    /* font-size: 36px; */
+    
+}
+
+
